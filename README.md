@@ -1,2 +1,2 @@
 # TikTok-Video-Downloader
-Download TikToks for Free
+A simple but effective one page TikTok video downloader script in PHP
