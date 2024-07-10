@@ -1,7 +1,9 @@
 # TikTok-Video-Downloader
 A simple but effective one page TikTok video downloader script in PHP
+# Screenshot
+<img src="https://raw.githubusercontent.com/omer123137/TikTok-Video-Downloader/master/Screenshot.PNG" alt="Interface" /><br>
 # Features
-* Supports short url(subject to change), normal video urls(desktop style urls only)
+* Supports short url
 * Supports watermark free video downloading
 # Video Download Guide
 * First find an acceptable URL format of video to download.
